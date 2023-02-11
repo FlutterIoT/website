@@ -1,9 +1,12 @@
 ---
-title: "Contact"
+title: "Liên hệ"
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+![Flutter IoT](/assets/images/ContactUs.jpg)
+
+<form action="https://formspree.io/f/mvonkbwp" method="POST" >  
+
 <p class="mb-4">Bạn muốn chia sẻ, góp ý cho {{site.name}}, xin để lại thông điệp của bạn. Chúng tôi sẽ liên lạc lại sớm nhất có thể!</p>
 <div class="form-group row">
 <div class="col-md-6">
@@ -16,3 +19,4 @@ permalink: "/contact.html"
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Lời nhắn*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Gửi">
 </form>
+
