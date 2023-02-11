@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Giới thiệu về Flutter"
+title:  "Flutter introduction"
 author: dantino
 categories: [Flutter]
 image: assets/images/Flutter-Intro.jpg
 tags: featured
 ---
 # Introduction to the Flutter Framework
----
+
 Flutter is an open-source, cross-platform mobile application development framework created by Google. It is used to develop applications for Android, iOS, Windows, Mac, Linux, Google Fuchsia, and the web from a single codebase. It is a modern and comprehensive framework that offers developers a wide range of options for creating mobile applications.
 
 The Dart programming language that powers Flutter is easy to learn and allows developers to quickly create attractive user experiences. It is a reactive framework, meaning that it responds quickly and efficiently to user input, creating smooth and responsive user experiences. This makes it highly efficient and effective for developers to use. Additionally, Flutter has a rich library of widgets that can be used to quickly and easily create beautiful user interfaces, a great benefit for developers who are not experienced coders.

@@ -21,11 +21,11 @@ plugins:
 authors:
     dantino:
       name:           Dantino
-      site:           https://www.wowthemes.net
+      site:           https://dantopia.vn
       avatar:         assets/images/dantino-avatar.jpeg
       bio:            "Hi, I am Dantino, the author of FlutterIoT, the website about Flutter and IoT. I hope you like it!"
       email:          dantopiavn@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:       https://twitter.com/dantino8x
 
     jane:
       name:           Jane
