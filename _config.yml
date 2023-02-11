@@ -3,7 +3,7 @@ name: 'FlutterIoT'
 description: 'Using Flutter in IoT Projects to develop Front-End Applications'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+baseurl: ""
 disqus: 'demowebsite'
 email: 'flutteriot@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -22,15 +22,15 @@ authors:
     dantino:
       name:           Dantino
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I am Dantino, the author of FlutterIoT, the website about Flutter and IoT. I hope you like it!"
       email:          dantopiavn@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
       name:           Jane
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
