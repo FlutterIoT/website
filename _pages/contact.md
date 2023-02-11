@@ -3,7 +3,7 @@ title: "Liên hệ"
 permalink: "/contact.html"
 ---
 
-![Flutter IoT](/assets/images/contact-us.jpg)
+![Flutter IoT](/assets/images/contact-us.jpeg)
 
 <form action="https://formspree.io/f/mvonkbwp" method="POST" >  
 
