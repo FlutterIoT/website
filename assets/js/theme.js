@@ -89,7 +89,7 @@ function loadSearch(){
         results = idx.search($('#searchField').val())
  
         // Empty #content and put a list in for the results
-        $('#content').html('<h1>Search Results (' + results.length + ')</h1>')
+        $('#content').html('<h1>Kết quả tìm kiếm (' + results.length + ')</h1>')
         $('#content').append('<ul id="searchResults"></ul>')
  
         // Loop through results
