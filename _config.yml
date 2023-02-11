@@ -6,7 +6,8 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ""
 disqus: 'demowebsite'
 email: 'flutteriot@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://flutteriot.us11.list-manage.com/subscribe/post?u=6045cdee0aa044c879cf5b18a&amp;id=c51661b0d3&amp;f_id=00ff98e0f0'
+# 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -23,7 +24,7 @@ authors:
       name:           Dantino
       site:           https://dantopia.vn
       avatar:         assets/images/dantino-avatar.jpeg
-      bio:            "Hi, I am Dantino, the author of FlutterIoT, the website about Flutter and IoT. I hope you like it!"
+      bio:            "Xin chào, tôi là Dantino, tác giả các bài viết trong FlutterIoT. Hy vọng bạn tìm được nhiều thông tin bổ ý từ các bài viết!"
       email:          dantopiavn@gmail.com
       twitter:       https://twitter.com/dantino8x
   
