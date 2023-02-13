@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Flutter 3.7 có gì mới?"
+title:  "Flutter trong các dự án IoT?"
 author: dantino
 categories: [Flutter, Flutter 3.7, Flutter Updates]
 image: assets/images/posts/whats-new-3_7-post-thumbnail-vi.jpeg
 tags: [featured]
 ---
-# Các điểm mới và cải tiến trong bản Flutter 3.7 
+# Sử dụng Flutter trong dự án IoT (Internet of Things - Internet vạn vật) 
 
+The start of 2023 is fabulous for developers using Flutter, as Google has just released Flutter 3.7. Developers can further enhance the ease of the coding process with great new features. Additionally, Flutter has revamped and optimized the existing features. However, the Dart 3 stable release is still not announced but it will bring productivity and portability in future.
 Đầu năm 2023 thật tuyệt vời đối với các nhà phát triển sử dụng Flutter, vì Google vừa phát hành Flutter 3.7. Các nhà phát triển có thể tăng cường hơn nữa sự dễ dàng của quy trình lập trình với các tính năng mới tuyệt vời. Ngoài ra, Flutter đã cải tiến và tối ưu hóa các tính năng hiện có. Tuy nhiên, bản phát hành ổn định của Dart 3 vẫn chưa được công bố nhưng nó sẽ mang lại năng suất và tính di động trong tương lai.
 
 Hãy cùng điểm qua các tính năng và các cải tiến trong Flutter 3.7!
