@@ -3,7 +3,7 @@ layout: post
 title:  "Các bước để bắt đầu với Flutter"
 author: dantino
 categories: [Flutter]
-image: assets/images/learn-flutter.png
+image: assets/images/posts/learn-flutter.png
 tags: [featured]
 ---
 # Các bước để bắt đầu với Flutter 
