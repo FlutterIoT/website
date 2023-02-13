@@ -3,7 +3,7 @@ layout: post
 title:  "What's new in Flutter 3.7?"
 author: dantino
 categories: [Flutter, Flutter 3.7, Flutter Updates]
-image: assets/images/posts/what new in flutter 3_7.jpeg
+image: assets/images/posts/whats-new-in-Flutter-3_7_en.jpeg
 tags: [featured]
 ---
 # Flutter 3.7 Released- What are New Features, Enhancements & Modifications
@@ -12,7 +12,8 @@ The start of 2023 is fabulous for developers using Flutter, as Google has just r
 
 So, let us go through Flutter 3.7!
 
->## Table of Contents:
+>
+> ***Table of Contents:***
 >  	
 > 1. What are the New features in Flutter 3.7?
 > 
@@ -40,7 +41,7 @@ For platforms other than macOS, you can use MenuBar for cascading menu bars or s
 
 You are free to customize the complete menu bar according to yourself.
 
-Menu Bars & Cascading menus
+![Menu Bars & Cascading menus]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-Menu-Bars-Cascading-menus.jpeg)
 
 ### **Impeller preview** 
 The impeller rendering engine is ready for preview on iOS. Although there are still a few gaps in the API coverage, it will meet the rendering requirements of the majority of the apps.
@@ -61,7 +62,7 @@ For example, developers can visually present to users what they have selected th
 
 contextMenuBuilder parameter can return the TextField.
 
-Custom context menus image
+![Custom context menus]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-Custom-context-menus.gif)
 
 ## What improvements Flutter 3.7 brings?
 1. In Flutter 3.7, Google has enhanced the material 3 support and migrated a bunch of widgets. To use the material 3 enhancements, you must specify useMaterial3 in the applications ThemeData widget. Flutter will generate a color scheme for you on its own. Here is how the complete code works.
