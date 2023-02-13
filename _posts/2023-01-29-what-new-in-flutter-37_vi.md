@@ -3,7 +3,7 @@ layout: post
 title:  "Flutter 3.7 có gì mới?"
 author: dantino
 categories: [Flutter, Flutter 3.7, Flutter Updates]
-image: assets/images/posts/whats-new-in-Flutter-3_7_en.jpeg
+image: assets/images/posts/whats-new-3_7-post-thumbnail-vi.jpeg
 tags: [featured]
 ---
 # Các điểm mới và cải tiến trong bản Flutter 3.7 
@@ -55,11 +55,12 @@ Khi bạn phát hành ứng dụng iOS, hãy kiểm tra danh sách cài đặt �
 
 Lệnh Flutter build ipa giờ đây sẽ xác thực một số cài đặt và thông báo cho bạn nếu có những sửa đổi cần được thực hiện đối với ứng dụng của bạn trước khi phát hành.
 
+![iOS Release validation]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-iOs-release-validation.jpeg)
+
 ### **Menu theo ngữ cảnh** 
 YoBạn có thể tạo các menu tùy chỉnh ở bất cứ đâu bạn muốn trong ứng dụng của mình.
 
 Ví dụ: các nhà phát triển có thể trình bày trực quan cho người dùng những gì họ đã chọn thông qua menu kiểu di chuột.
-
 tham số contextMenuBuilder có thể trả về TextField.
 
 ![Custom context menus]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-Custom-context-menus.gif)
@@ -67,7 +68,7 @@ tham số contextMenuBuilder có thể trả về TextField.
 ## Các cải tiến trong Flutter 3.7?
 1. Trong Flutter 3.7, Google đã tăng cường hỗ trợ material 3 và di chuyển một loạt tiện ích con. Để sử dụng các cải tiến của material 3, bạn phải chỉ định useMaterial3 trong tiện ích ThemeData của ứng dụng. Flutter sẽ tự tạo bảng màu cho bạn. Đây là cách mã hoàn chỉnh hoạt động.
    
-![Sử dụng Material 3]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-usematerial3.jpeg)
+    ![Sử dụng Material 3]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-usematerial3.jpeg)
 
 2. DevTools được cập nhật với Flutter 3.7 mới mang lại trải nghiệm tuyệt vời cho các nhà phát triển, đặc biệt là trong khi gỡ lỗi.
    
@@ -76,9 +77,13 @@ tham số contextMenuBuilder có thể trả về TextField.
 4. Hỗ trợ quốc tế hóa được nhóm Flutter sửa đổi hoàn toàn. Bây giờ chúng đại diện cho các lỗi cú pháp mô tả để cho phép các nhà phát triển thực hiện gỡ lỗi một cách chi tiết.
    
 5. Vùng chọn cho phép mở rộng vùng chọn thông qua bàn phím. Ví dụ: phím tắt Shift+phải sẽ hoạt động trong ứng dụng Flutter. Ngoài ra, kính lúp văn bản xuất hiện trong khi chọn văn bản. Vùng chọn cho phép lựa chọn mở rộng thông qua bàn phím.
-   ![Sử dụng Material 3]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-SelectionArea-allows-extended-selection-through-the-keyboard.gif)
+   
+![Sử dụng Material 3]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-SelectionArea-allows-extended-selection-through-the-keyboard.gif)
+
 6. iOS platformView BackdropFilter làm mờ các phần tử bên dưới phần tử chính. Nó mang lại mục đích cung cấp giao diện người dùng tốt nhất cho người dùng. Nền tảng iOSView BackdropFilter làm mờ các phần tử bên dưới phần tử chính.
-   ![Sử dụng Material 3]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-iBackdropFilter-blurs-the-elements-underneath-the-main-element.png)
+   
+![Sử dụng Material 3]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-backdropblur.jpeg)
+
 7. Quản lý bộ nhớ tốt hơn với Flutter 3.7. Nó giảm rác sau khi thu gom rác, mang lại khả năng sử dụng CPU tốt hơn trong các ứng dụng. Dung lượng bộ nhớ được giảm so với phiên bản trước.
    
 ## Các điều chỉnh được thực hiện trong Flutter 3.7? 
@@ -86,6 +91,7 @@ tham số contextMenuBuilder có thể trả về TextField.
 - Plugin quick_actions được di chuyển từ Mục tiêu C sang Swift, cung cấp các phương pháp phát triển tốt nhất và được cập nhật cho các nhà phát triển.
 - Trong Xcode 14, bitcode không còn quan trọng trong khi xây dựng ứng dụng cho watchOS và tvOS. Cửa hàng ứng dụng không chấp nhận bitcoder nữa trong quá trình đưa ứng dụng lên App Store.
   
+  ![iOS Release validation]({{ site.baseurl }}/assets/images/posts/whats-new-3_7-bitcode-disable.jpeg)
 ## Các điều tiếp theo cho cộng đồng Flutter? 
 Flutter dường như đã sẵn sàng để đột phá và nâng cao hiệu suất đồ họa với Impeller.
 
