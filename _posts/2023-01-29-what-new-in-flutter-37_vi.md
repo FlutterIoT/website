@@ -12,24 +12,16 @@ tags: [featured]
 
 Hãy cùng điểm qua các tính năng và các cải tiến trong Flutter 3.7!
 
->
-> ***Các nội dung trong bài viết:***
->  	
-> 1. Các tính năng mới trong Flutter 3.7?
-> 
-> - Thanh menu và menu ngữ cảnh xếp tầng
->
-> - Bản preview Impeller
-> 
-> - Xác thực phát hành cho iOS
-> 
-> - Menu ngữ cảnh tuỳ biến
-> 
-> 2. Các cải tiến trong Flutter 3.7?
-> 
-> 3. Các điều chỉnh trong Flutter 3.7?
-> 
-> 4. Các điều tiếp theo cho cộng đồng Flutter?
+
+ ***Các nội dung trong bài viết:***
+ 1. Các tính năng mới trong Flutter 3.7?
+    - Thanh menu và menu ngữ cảnh xếp tầng
+    - Bản preview Impeller
+    - Xác thực phát hành cho iOS
+    - Menu ngữ cảnh tuỳ biến
+ 2. Các cải tiến trong Flutter 3.7?
+ 3. Các điều chỉnh trong Flutter 3.7?
+ 4. Các điều tiếp theo cho cộng đồng Flutter?
 
 ## Các tính năng mới trong Flutter 3.7?
 

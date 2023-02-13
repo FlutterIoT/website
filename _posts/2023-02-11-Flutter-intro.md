@@ -4,7 +4,7 @@ title:  "Giới thiệu về Flutter"
 author: dantino
 categories: [Flutter]
 image: assets/images/Flutter-Intro.jpeg
-tags: [sticky, featured]
+tags: [featured]
 ---
 # Giới thiệu về nền tảng phát triển ứng dụng đa nền tảng Flutter 
 
