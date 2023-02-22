@@ -3,7 +3,7 @@ layout: post
 title:  "Flutter trong các dự án IoT? (Bài 1)"
 author: dantino
 categories: [Flutter, FlutterIoT]
-image: assets/images/posts/iot-love-flutter-01/IoT-love-Flutter.jpeg
+image: assets/images/posts/iot-flutter-01/Flutter-IoT-Post-Cover-01.jpg
 tags: [featured, sticky]
 ---
 # Sử dụng Flutter trong dự án IoT (Internet of Things - Internet vạn vật) 
@@ -13,7 +13,7 @@ tags: [featured, sticky]
 
 Các thương hiệu lớn như BWM, iRobot, ByteDance, Alibaba,... đang sử dụng Flutter cho các ứng dụng dành cho thiết bị di động của họ nên Flutter đã đạt được cả tên tuổi và sự công nhận trong vài năm qua. 
 
- ![Flutter sử dụng trong các công ty]({{ site.baseurl }}/assets/images/posts/iot-love-flutter-01/iot-love-flutter-companies-use-flutter.jpeg)
+ ![Flutter sử dụng trong các công ty]({{ site.baseurl }}/assets/images/posts/iot-flutter-01/iot-love-flutter-companies-use-flutter.jpeg)
  Xem thêm các công ty đang sử dụng Flutter [tại đây]
 
 Mục đích của bài viết này này là chỉ ra những ưu điểm của việc sử dụng Flutter cho các ứng dụng IoT và nó ảnh hưởng như thế nào đến quá trình phát triển ứng dụng IoT nói chung. Tuy nhiên, trước khi chúng ta chuyển sang những lợi ích của việc chọn Flutter để phát triển ứng dụng IoT, hãy cùng tìm hiểu tổng quan về nền tảng Flutter và xem điều gì khiến nó trở nên phổ biến trong ngành.
@@ -35,7 +35,7 @@ Flutter cho phép phát triển ứng dụng cho nhiều hệ điều hành vớ
 
 ## Tại sao sử dụng Flutter cho IoT? 
 Bây giờ chúng ta hãy đi vào cốt lõi của bài viết này và tìm hiểu đó là gì. Vì vậy, chúng tôi biết rõ rằng Flutter được sử dụng để phát triển ứng dụng IoT nhưng bạn có thắc mắc tại sao không? Nếu có, đừng lo lắng; chúng tôi sẽ tìm ra nó trong bài này. Chúng tôi sẽ thảo luận về lợi ích của việc sử dụng Flutter để phát triển ứng dụng IoT và cố gắng giải tỏa những nghi ngờ của bạn bằng những lý do chính đáng. Vì vậy, chúng ta sẽ bắt đầu ngay chứ?
-![Tại sao Flutter trong IoT]({{ site.baseurl }}/assets/images/posts/iot-love-flutter-01/iot-love-flutter-why-flutter-for-iot.jpeg)
+![Tại sao Flutter trong IoT]({{ site.baseurl }}/assets/images/posts/iot-flutter-01/iot-love-flutter-why-flutter-for-iot.jpeg)
 
 ### #1 Tạo mẫu dễ dàng hơn
 
