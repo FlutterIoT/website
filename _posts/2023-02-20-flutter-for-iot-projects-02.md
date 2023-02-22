@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Làm thế nào phát triển dự án IoT với Flutter? (Bài 2)"
+title:  "Làm thế nào để phát triển dự án IoT với Flutter? (Bài 2)"
 author: dantino
 categories: [Flutter,IoT, Công nghệ,]
 image: assets/images/posts/iot-flutter-02/Flutter-IoT-Post-Cover-02.jpg
@@ -62,10 +62,13 @@ Flutter có thể là một framework mới, nhưng sự phổ biến của nó 
 
 Nếu bạn vẫn không chắc chắn về framework Flutter, tại sao không nhờ sự trợ giúp của các chuyên gia? Không có gì sai khi thảo luận về dự án của bạn với các chuyên gia Flutter và thuê các nhà phát triển Flutter để phát triển các ứng dụng IoT thành công. Hãy liên hệ với một công ty phát triển ứng dụng Flutter có uy tín và sẵn sàng tạo ra một ứng dụng IoT thế hệ tiếp theo và sẽ thu hút mọi người như một cơn bão.
 
-**Chúc bạn thành công**
+🌟 Chúc mừng bạn đã tiến một bước vào con đường phát triển sản phẩm IoT với Flutter.
 
-PS. Tiếp tục theo dõi các bài viết tiếp theo về Flutter và IoT để bạn có thể hiểu sâu hơn, giúp lựa chọn giải pháp phù hợp nhất cho dự án của bạn hoặc của công ty bạn.
+## **Chúc bạn thành công!**
 
+***PS. Tiếp tục theo dõi các bài viết tiếp theo về Flutter và IoT để bạn có thể hiểu sâu hơn, giúp lựa chọn giải pháp phù hợp nhất cho dự án của bạn hoặc của công ty bạn.***
+
+[Bài 1 - Flutter trong các dự án IoT](https://flutteriot.com/flutter-for-iot-projects-01/) 
 
 Credit:
  - Hình chủ đề có sử dụng nội dung từ [freepik.com](https://www.freepik.com/free-vector/internet-things-isometric-flowchart_6169717.htm#query=Iot&position=8&from_view=search&track=sph)

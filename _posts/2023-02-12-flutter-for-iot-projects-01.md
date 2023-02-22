@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Flutter trong các dự án IoT? (Bài 1)"
+title:  "Flutter trong các dự án IoT (Bài 1)"
 author: dantino
-categories: [Flutter, FlutterIoT]
+categories: [Flutter, IoT, Công nghệ]
 image: assets/images/posts/iot-flutter-01/Flutter-IoT-Post-Cover-01.jpg
 tags: [featured, sticky]
 ---
