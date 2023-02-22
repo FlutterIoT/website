@@ -6,7 +6,8 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ""
 disqus: 'demowebsite'
 email: 'flutteriot@gmail.com'
-mailchimp-list: 'https://flutteriot.us11.list-manage.com/subscribe/post?u=6045cdee0aa044c879cf5b18a&amp;id=c51661b0d3&amp;f_id=00ff98e0f0'
+mailchimp-list: 'https://flutteriot.us21.list-manage.com/subscribe/post?u=822b24d0ace28015d54f699a6&amp;id=a461d2f2ef&amp;f_id=000d97e1f0'
+# https://dantopia.us11.list-manage.com/subscribe/post?u=6045cdee0aa044c879cf5b18a&amp;id=c51661b0d3&amp;f_id=00ff98e0f0
 # 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
